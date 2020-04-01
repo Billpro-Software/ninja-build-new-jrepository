@@ -1,0 +1,13 @@
+
+DK
+C:\Users\vmb5390\.babun\cygwin\home\vmb5390\projects\dk\common\merge\NinjaCore\ninja-core-root\core\src\no\netcom\ninja\core\system\tuxedo\service
+
+grep 00 * | grep NAME  | cut -d'=' -f2 | cut -c 3- | cut -d'0' -f1 > NinjaTuxedoServices.txt
+
+
+NO
+C:\Users\vmb5390\.babun\cygwin\home\vmb5390\projects\no\NinjaCore\ninja-core-root\core\src\no\netcom\ninja\core\system\tuxedo\service
+
+grep 00 * | grep NAME  | cut -d'=' -f2 | cut -c 3- | cut -d'0' -f1 > NinjaTuxedoServices.txt
+
+

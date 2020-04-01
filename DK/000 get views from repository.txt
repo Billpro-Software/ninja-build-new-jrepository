@@ -1,0 +1,44 @@
+
+
+connect DK TEST FTST tmdtwrk1
+212.45.180.88
+tmdtwrk1
+
+cd raviv
+cd viewFiles
+
+ll          
+drwxr-xr-x   2 tmdtwrk1   dtest         2048 Sep 25 15:47 260/
+drwxr-xr-x   2 tmdtwrk1   dtest         2048 Sep 25 15:47 270/
+
+cd 260
+cp /tmdstg/TMD_A/lib/*c32_v.v .
+
+cd 270
+cp /tmdstg/TMD_B/lib/*c32_v.v .
+
+
+cp /tmdstg/TMD_C/lib/*c32_v.v .
+
+
+https://itwiki.atlassian.teliasonera.net/display/FOKUS/Fokus+test+environments
+
+260
+cd /tmdstg/TMD_A/lib
+
+270
+cd /tmdstg/TMD_B/lib
+
+
+280
+cd /tmdstg/TMD_C/lib
+
+
+
+
+
+
+
+
+
+

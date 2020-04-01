@@ -1,0 +1,3 @@
+http://subversion.netcom.no/svn/ninja/NinjaTuxedoGeneration/training/training_hgu/
+
+
